@@ -1,0 +1,15 @@
+Shifty Eyes is an Arduino project which controls a servo motor
+to move two beads painted to look like eyeballs back and forth
+at random. They are intended to be eyes in a portrait on a 
+birch panel (with the electronics and mechanics in the
+space in the back of the panel). The motion could be continuous
+(probably not, because the battery would run out too soon),
+random, or a reaction to viewer proximity, to sound in the room,
+an IR remote control, etc. I sort of like "random." "Viewer
+proximity" is good for interactivity, but expensive. "IR remote
+control" is inexpensive, but limiting and not as surprising
+to the viewer as I would like. "Ambient sound" is kind of
+natural -- looking around when you hear a noise seems like
+something a real person does. I don't know how easy that is
+to accomplish with a piezo detector or if it would take a real
+microphone.
